@@ -12,14 +12,19 @@ Since there are many different interesting topics, and sticking for months to a 
 While we'll generally try to stay close to ML, some topics need a basic introduction, so we'll have some of those as well.
 
 ## Contributing
-- If there are particular topics you'd like us to cover, feel free to let us know, and we'll add them to the list.
-- If you are knowledgeable in some topic, and would like to present one or more sessions on it, we'd love to have you. Just open an issue on this repo with details on the topic, sources we can read and how many sessions you'd like to do.
+- If there are particular topics you'd like us to cover, feel free to let us know or create an issue on this repo, and we'll add them to the list.
+- If you are knowledgeable in some topic, and/or are motivated to present one or more sessions on it, we'd love to have you. Just open an issue on this repo on the topic, or reply to the existing issue for that topic.
+
+## Guidelines for contributors
+In order to prepare sessions on a topic, it's important to have some source material available online that attendees can read. You can find some [here](https://github.com/rossant/awesome-math), but there's plenty more out there.
+
+A topic will be considered ready to be covered once it has reading material, people willing to present and an idea of how many sessions it should take, at which point it will be scheduled.
 
 ## List of suggested topics
 - Representation Theory
 - Geometric Deep Learning
 - Random Matrix Theory
-- Partial Differential Equations
+- Partial Differential Equations (Theory + ML applications)
 - Scientific Machine Learning
 - Undergraduate Physics (Electromagnetism, Statistical Mechanics, Quantum Mechanics)
 - Dynamical Systems
