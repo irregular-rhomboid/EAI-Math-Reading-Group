@@ -27,6 +27,7 @@ A topic will be considered ready to be covered once it has reading material, peo
 - Partial Differential Equations (Theory + ML applications)
 - Scientific Machine Learning
 - Undergraduate Physics (Electromagnetism, Statistical Mechanics, Quantum Mechanics)
+- Advanced Linear Algebra
 - Dynamical Systems
 - Topology
 - Measure Theory
