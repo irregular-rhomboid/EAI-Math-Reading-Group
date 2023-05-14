@@ -6,6 +6,8 @@ If the previous paragraph sounds just like you, or you just like to learn math i
 
 On discord, you can reach out to genetyx8#7543 or join the [thread](https://discord.com/channels/729741769192767510/1089231591785639946).
 
+Recordings of the meetings can be found on the [EleutherAI Youtube channel](https://www.youtube.com/playlist?list=PLvtrkEledFjodK_UKua2h4exNMcWNGJrs)
+
 ## Organisation
 Since there are many different interesting topics, and sticking for months to a single one is difficult, our current plan is to have sessions on long running topics like Geometric Deep Learning interspersed with some shorter ones.
 
