@@ -8,6 +8,8 @@ On discord, you can reach out to genetyx8#7543 or join the [thread](https://disc
 
 Recordings of the meetings can be found on the [EleutherAI Youtube channel](https://www.youtube.com/playlist?list=PLvtrkEledFjodK_UKua2h4exNMcWNGJrs)
 
+See the [resources](https://github.com/irregular-rhomboid/EAI-Math-Reading-Group/tree/main/resources) folder for the slides and links to the documents we read as part of the reading group.
+
 ## Organisation
 Since there are many different interesting topics, and sticking for months to a single one is difficult, our current plan is to have sessions on long running topics like Geometric Deep Learning interspersed with some shorter ones.
 
