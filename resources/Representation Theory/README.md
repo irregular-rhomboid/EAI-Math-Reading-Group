@@ -7,3 +7,4 @@ Main resources:
 
 Additional resources:
 - https://www.youtube.com/watch?v=Q9OsEZV5YX8&list=PL8yHsr3EFj51AM_VmB0VygPIzcUCH_jUG
+* https://colab.research.google.com/github/dashstander/sn-grok/blob/main/Sn_Circuits.ipynb
