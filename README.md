@@ -4,7 +4,7 @@ Machine Learning already relies on a lot of math, and with more and more researc
 
 If the previous paragraph sounds just like you, or you just like to learn math in general, consider joining this reading group. We usually meet on Sundays at 1PM Pacific on the EAI Discord server.
 
-On discord, you can reach out to genetyx8#7543 or join the [thread](https://discord.com/channels/729741769192767510/1089231591785639946).
+On discord, you can reach out to genetyx8 or join the [thread](https://discord.com/channels/729741769192767510/1089231591785639946).
 
 Recordings of the meetings can be found on the [EleutherAI Youtube channel](https://www.youtube.com/playlist?list=PLvtrkEledFjodK_UKua2h4exNMcWNGJrs)
 
@@ -25,14 +25,15 @@ In order to prepare sessions on a topic, it's important to have some source mate
 A topic will be considered ready to be covered once it has reading material, people willing to present and an idea of how many sessions it should take, at which point it will be scheduled.
 
 ## List of suggested topics
-- Representation Theory
-- Geometric Deep Learning
-- Random Matrix Theory
+- ~~Representation Theory~~
+- ~~Geometric Deep Learning~~
+- ~~Random Matrix Theory~~
 - Partial Differential Equations (Theory + ML applications)
 - Scientific Machine Learning
 - Undergraduate Physics (Electromagnetism, Statistical Mechanics, Quantum Mechanics)
 - Advanced Linear Algebra
 - Dynamical Systems
-- Topology
+- ~~Topology~~
 - Measure Theory
 - Game Theory
+- Information Geometry
