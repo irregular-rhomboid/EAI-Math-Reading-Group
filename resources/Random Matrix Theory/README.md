@@ -6,6 +6,9 @@ Main resources:
 Additional Resources:
 * https://www.youtube.com/watch?v=Y4mnlIvVJEs
 * https://arxiv.org/abs/1712.07903.pdf
+* https://arxiv.org/abs/2102.06740
+* https://arxiv.org/abs/1901.08276
+* https://arxiv.org/abs/1810.01075
 
 Check out the Julia notebooks. They have some nice visualizations. You'll need to install Julia and the Pluto package to run them.
 
