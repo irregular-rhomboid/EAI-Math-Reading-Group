@@ -11,7 +11,7 @@ Recordings of the meetings can be found on the [EleutherAI Youtube channel](http
 See the [resources](https://github.com/irregular-rhomboid/EAI-Math-Reading-Group/tree/main/resources) folder for the slides and links to the documents we read as part of the reading group.
 
 ## Organisation
-Since there are many different interesting topics, and sticking for months to a single one is difficult, our current plan is to have sessions on long running topics like Geometric Deep Learning interspersed with some shorter ones.
+Since there are many interesting topics, and sticking for months to a single one is difficult, our current plan is to have sessions on long-running topics like Geometric Deep Learning interspersed with some shorter ones.
 
 While we'll generally try to stay close to ML, some topics need a basic introduction, so we'll have some of those as well.
 
@@ -36,4 +36,6 @@ A topic will be considered ready to be covered once it has reading material, peo
 - ~~Topology~~
 - Measure Theory
 - Game Theory
-- Information Geometry
+- ~~Information Geometry~~
+- Functional Data Analysis
+- Topological Data Analysis

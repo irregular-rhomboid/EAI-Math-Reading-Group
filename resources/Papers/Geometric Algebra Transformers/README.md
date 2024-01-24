@@ -2,6 +2,7 @@
 
 Main resources:
 - https://arxiv.org/abs/2305.18415
+-  https://github.com/Qualcomm-AI-research/geometric-algebra-transformer
 
 Additional resources
 - https://www.youtube.com/watch?v=60z_hpEAtD8
