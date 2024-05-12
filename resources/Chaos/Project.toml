@@ -1,0 +1,9 @@
+[deps]
+ChaosTools = "608a59af-f2a3-5ad4-90b4-758bdf3122a7"
+DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+
+[compat]
+Makie = "0.19"
