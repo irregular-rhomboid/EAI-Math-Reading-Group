@@ -25,6 +25,7 @@ In order to prepare sessions on a topic, it's important to have some source mate
 A topic will be considered ready to be covered once it has reading material, people willing to present and an idea of how many sessions it should take, at which point it will be scheduled.
 
 ## List of suggested topics
+
 - ~~Representation Theory~~
 - ~~Geometric Deep Learning~~
 - ~~Random Matrix Theory~~
@@ -32,10 +33,10 @@ A topic will be considered ready to be covered once it has reading material, peo
 - Scientific Machine Learning
 - Undergraduate Physics (Electromagnetism, Statistical Mechanics, Quantum Mechanics)
 - Advanced Linear Algebra
-- Dynamical Systems
+- ~~Dynamical Systems~~
 - ~~Topology~~
 - Measure Theory
 - Game Theory
 - ~~Information Geometry~~
-- Functional Data Analysis
-- Topological Data Analysis
+- ~~Functional Data Analysis~~
+- ~~Topological Data Analysis~~
